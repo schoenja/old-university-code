@@ -10,6 +10,6 @@ This is basically based on [this](the-article-thing), I agree that sharing code 
 Most of the stuff in this repo will not have any significance, I simply decided that I got to start somewhere, so why not dump all the old, crappy python stuff I wrote...
 
 # License
-Check the `LICENSE` file. tl;dr: Public Domain. I don't care what you do, just don't bother me about it.
+Check the `LICENSE` file. tl;dr: CC0 1.0 . I don't care what you do, just don't bother me about it.
 
 [the-article-thing]: http://matt.might.net/articles/crapl/
